@@ -1,7 +1,7 @@
 # TinDog
 TinDog is a Tinder clone website for dogs. It allows dog owners to swipe left or right on other dogs to find their perfect match.
 
-Features
+# Features
 Create a profile for your dog, including their name, breed, age, and personality.
 Browse other dog profiles and swipe left or right to indicate your interest.
 If two dogs swipe right on each other, they will be matched and can start chatting.
