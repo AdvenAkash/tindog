@@ -18,4 +18,3 @@ TinDog is licensed under the MIT License.
 # Contact
 If you have any questions about TinDog, please contact us at advenakash1912@gmail.com
 
-I hope this helps!
